@@ -73,7 +73,8 @@ button:disabled {
 
 h2 {
     display: inline-block;
-    vertical-align: 35%;
+    vertical-align: top;
+    padding-top: 100px;
     font-weight: 200;
     font-size: 144px;
     margin: 12px 0px;
@@ -172,9 +173,10 @@ h2 {
       
       h2 {
           display: inline-block;
-          vertical-align: 35%;
+          vertical-align: top;
+          padding-top: 100px;
           font-weight: 200;
-          font-size: 100px;
+          font-size: 90px;
           margin: 12px 0px;
           padding-left: 100px;
       }
