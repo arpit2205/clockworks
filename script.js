@@ -128,6 +128,7 @@ document.getElementById("day").innerHTML = "Saturday"
 
 date = d.getDate()
 month = d.getMonth()
+month = month+1
 year = d.getFullYear()
 
 document.getElementById("date").innerHTML = date + '-' + month + '-' + year
