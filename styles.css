@@ -42,7 +42,7 @@ input {
     width: 50%;
     font-size: 30px;
     border: none;
-    border-bottom: 1px solid rgba(0, 0, 0, .5);
+    background-color: rgb(245, 245, 245);
     padding-left: 6px;
     font-weight: 200px;
     outline: none;
@@ -142,7 +142,7 @@ h2 {
           width: 50%;
           font-size: 30px;
           border: none;
-          border-bottom: 1px solid rgba(0, 0, 0, .5);
+          background-color: rgb(245, 245, 245);
           padding-left: 6px;
           font-weight: 200px;
           outline: none;
